@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/angel-cardenas-92b28b268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angel-cardenas-92b28b268" height="30" width="40" /></a>
 <a href="https://instagram.com/angelcarde64/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Angel-Carde-Pro/" height="30" width="40" /></a>
-<a href="https://discord.gg/vyjuvYWg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vyjuvYWg" height="30" width="40" /></a>
+<a href="https://discord.gg/S4rtygUTYN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vyjuvYWg" height="30" width="40" /></a>
 </p>
 
 ### 🔨 Languages and Tools
