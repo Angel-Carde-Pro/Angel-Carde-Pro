@@ -1,4 +1,4 @@
-Hola 👋, Yo soy Angel Cárdenas
+<h1 align="center">Hola 👋, Yo soy Angel Cárdenas</h1>
 
 <p align="center"> <img src="https://i.pinimg.com/originals/4a/70/5e/4a705e028bb9f5d50995e68c791fb10a.gif" alt="Fondo" /> </p>
 
