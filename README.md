@@ -14,7 +14,7 @@
 
 - 📫 Puedes escribirme cualquier duda a correo: **soportelatintechnology@gmail.com**
 
-- ⚡ Fun fact: **Soy buena onda y me gusta trabajar en equipo**
+- ⚡ Fun fact: **Soy un persona ambiciosa, por ende trato de desarrollar las mejores apps.**
 
 ### ⭐ My social networks
 <p align="left">
