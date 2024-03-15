@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 Actualmente estoy aprendiendo: **Python**
+- 🌱 Actualmente estoy aprendiendo: **Flutter**
 
 - 📫 Puedes escribirme cualquier duda a correo: **soportelatintechnology@gmail.com**
 
