@@ -12,4 +12,4 @@
 
 ### 🛩️ My Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Angel-Carde-Pro&theme=onedark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Angel-Carde-Pro&theme=onedark)]
